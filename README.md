@@ -1,5 +1,14 @@
 # CSARCH2 Simulation Project
-#### Youtube Video link: 
+### Youtube Video link:
+### Live Website Link: https://csarch2-s327.onrender.com/
+ 
+<hr>
+
+#### To run locally:
+- run `python app.py` on terminal
+- open `http://127.0.0.1:5000` on website
+
+<hr>
 
 ## Case Project #2: Computing Machine
 
